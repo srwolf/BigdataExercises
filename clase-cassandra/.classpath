@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/apache-cassandra-clientutil-1.1.7.jar"/>
+	<classpathentry kind="lib" path="lib/apache-cassandra-thrift-1.1.7.jar"/>
+	<classpathentry kind="lib" path="lib/astyanax-1.56.44-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/astyanax-cassandra-1.56.44-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/astyanax-core-1.56.44-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/astyanax-recipes-1.56.44-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/astyanax-thrift-1.56.44-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="lib/commons-cli-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-validator-1.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/guava-14.0-rc1.jar"/>
+	<classpathentry kind="lib" path="lib/libthrift-0.7.0.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/apache-cassandra-1.1.7.jar"/>
+	<classpathentry kind="lib" path="lib/high-scale-lib-1.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/joda-time-2.3.jar"/>
+	<classpathentry kind="lib" path="lib/aws-java-sdk-1.3.27.jar"/>
+	<classpathentry kind="lib" path="lib/cassandra-driver-core-2.1.4.jar"/>
+	<classpathentry kind="lib" path="lib/metrics-core-3.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
